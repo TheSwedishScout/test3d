@@ -1,3 +1,7 @@
+# 3d models by'
+Bearing: Sergey Koliadintsev https://sketchfab.com/3d-models/bearing-7bfeee3eecc54695bc5e27c4d875a984
+dog: HeyNinety https://sketchfab.com/3d-models/dog-c1d790c39dcf4ba2a9a47b4c0dc8836b
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

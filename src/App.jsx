@@ -1,4 +1,4 @@
-import React, { Suspense, useRef } from 'react';
+import { Suspense } from 'react';
 import './App.css';
 // import { Box } from './components/box';
 import { Canvas } from '@react-three/fiber'
